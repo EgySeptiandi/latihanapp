@@ -20,7 +20,7 @@ class FirstSplash extends StatelessWidget {
               children: [
                 Center(
                   child: Image.asset(
-                    'assets/simpanse.jpg',
+                    'assets/simpanse.png',
                     width: 150,
                     height: 150,
                   ),

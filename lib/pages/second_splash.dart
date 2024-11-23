@@ -24,7 +24,7 @@ class SecondSplash extends StatelessWidget {
             child: Row(
               children: [
                 Image.asset(
-                  'assets/simpanse.jpg',
+                  'assets/simpanse.png',
                   width: 51,
                 ),
                 const SizedBox(
